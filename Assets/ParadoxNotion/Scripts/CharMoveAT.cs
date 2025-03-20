@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace NodeCanvas.Tasks.Actions {
 
-	public class GuardMoveAT : ActionTask {
+	public class CharMoveAT : ActionTask {
 
 		public Transform[] posToMoveTo;
 		public int foodIndex = 0;
